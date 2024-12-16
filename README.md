@@ -1,1 +1,4 @@
-- 👋 Hi, I’m Flavio 
+# 👋 Hi, I’m Flavio 
+
+## My tech stack
+[![My Skills](https://skillicons.dev/icons?i=angular,react,vuejs,nest,js,ts,css,scss)](https://skillicons.dev)
